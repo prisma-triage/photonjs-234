@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "prisma2": "^2.0.0-preview014.2",
+    "ts-node-dev": "^1.0.0-pre.43",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  },
+  "scripts": {
+    "postinstall": "prisma2 generate"
+  }
+}
