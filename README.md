@@ -7,4 +7,4 @@ To reproduce
 
 Observation: It restarts gracefully but never fails with a missing Photon error.
 
-GIF of the observation: ![](https://divyendu.s3-eu-west-1.amazonaws.com/photonjs-234.gif)
+https://divyendu.s3-eu-west-1.amazonaws.com/photonjs-234.gif
